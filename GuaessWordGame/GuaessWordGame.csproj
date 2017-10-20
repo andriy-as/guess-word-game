@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameServiceMpl.cs" />
+    <Compile Include="GameService.cs" />
+    <Compile Include="GameView.cs" />
     <Compile Include="TaskProviderImpl.cs" />
     <Compile Include="Task.cs" />
     <Compile Include="Form1.cs">
