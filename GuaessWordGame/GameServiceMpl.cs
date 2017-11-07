@@ -27,7 +27,7 @@ namespace GuaessWordGame
 
         public void GuaessWord(string word)
         {
-            
+           
         }
 
         public void start()
